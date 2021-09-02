@@ -2,7 +2,7 @@
 
 A simple audio/speech dataset consisting of recordings of spoken digits in `wav` files at 8kHz. The recordings are trimmed so that they have near minimal silence at the beginnings and ends.
 
-GDD is an open dataset, which means it will grow over time as data is contributed.  In order to enable reproducibility and accurate citation the dataset is versioned using Zenodo DOI as well as `git tags`.
+GDD is an open dataset, which means it will grow over time as data is contributed.
 
 ### Current status
 - 6 speakers
